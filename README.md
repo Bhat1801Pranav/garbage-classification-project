@@ -1,6 +1,6 @@
 
 # Garbage and Waste Classification Using Deep Learning
-
+🚀 **Live Demo:** [Try EcoSort AI on Streamlit](https://your-app-name.streamlit.app)
 ## Project Overview
 An AI-based waste classification system using transfer learning
 to classify waste images into six categories.
